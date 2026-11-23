@@ -1,0 +1,10 @@
+============================= test session starts ==============================
+platform linux -- Python 3.12.3, pytest-8.4.2, pluggy-1.7.0
+rootdir: /home/peekpray/Projects/python-test
+plugins: playwright-0.10.0, asyncio-1.5.0
+asyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function
+collected 1 item
+
+tests/test_elements.py .
+
+============================== 1 passed in 15.19s ==============================
